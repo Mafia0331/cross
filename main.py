@@ -1,4 +1,4 @@
-import time
+﻿import time
 while True:
     first_line = {1: '.', 2: '.', 3: '.'}
     second_line = {4: '.', 5: '.', 6: '.'}
@@ -93,3 +93,4 @@ while True:
     win()
 
     print('Draw!')
+    print('LOH')
